@@ -1,5 +1,5 @@
 # Movie-Recommender-System
-A content-based recommender system that recommends movies similar to the movie the user likes.
+A content-based recommender system recommends movies similar to the movie the user likes.
 The main parameters that are considered for the recommendations are the `genre`, `director` and top `3 casts`. The details of the movies, such as title, genre, runtime, rating, poster, casts, etc. are fetched from TMDB.
 ## Dataset link:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
